@@ -1,4 +1,6 @@
-package main.java.com.irrs.youtube.playlist.demo.controller;
+package com.irrs.youtube.playlist.demo.controller;
+
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class YTController{
